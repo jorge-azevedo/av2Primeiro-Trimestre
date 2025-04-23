@@ -12,5 +12,5 @@ header{
 header nav a{
     color: nav(--color-texto);
     margin-right: 20px;
-    text-decoration: nome;
+    text-decoration: none;
 }
