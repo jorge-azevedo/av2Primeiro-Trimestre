@@ -4,7 +4,7 @@
 }
 
 header{
-    background-color: var(--cor-fundo-header)
+    background-color: var(--cor-fundo-header);
     color: var(--cor-texto);
     padding: 20px;
 }
